@@ -1,0 +1,11 @@
+Temp
+Library
+obj
+*.unityproj
+*.csproj
+*.sln
+*.suo
+*.userprefs
+svnignore.txt
+svnignore.bat
+.vs
